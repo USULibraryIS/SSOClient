@@ -54,8 +54,8 @@ class SsoClient {
         }
 
 	    //debug set in config file
-	    if (defined('SSO_DEBUG')) {
-            \phpCAS::setDebug($this->cas_debug_log);
+	    if (defined('SSO_DEBUG_LOG')) {
+            \phpCAS::setDebug(SSO_DEBUG_LOG);
             \phpCAS::setVerbose(true);
         }
 
