@@ -1,5 +1,5 @@
 {
-    "name": "razztek/sso-client",
+    "name": "razztek/ssoclient",
     "description": "CAS connection to USU CAS Server",
     "type": "project",
     "require": {
