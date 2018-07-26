@@ -1,6 +1,6 @@
 <?php
 
-namespace razztek\ssoclient\Processor;
+namespace RazzTek\SSOClient\Processor;
 
 class SsoClient {
     private $client;
