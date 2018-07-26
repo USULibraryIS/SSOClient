@@ -7,7 +7,7 @@
     },
     "autoload": {
         "psr-4": {
-            "RazzTek\\": "src"
+            "RazzTek\\SSOClient\\": "src"
         }
     },
     "license": "MIT",
