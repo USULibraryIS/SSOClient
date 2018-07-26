@@ -21,7 +21,6 @@ class SsoClient {
             $this->cas_port = $cas_port;
             $this->cas_context = $cas_context;
             $this->cas_server_ca_cert_path = $cas_server_ca_cert_path;
-            $this->cas_debug_log = $cas_debug_log;
 
 
 			//set which protocol CAS should use
