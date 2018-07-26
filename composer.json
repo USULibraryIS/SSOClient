@@ -9,7 +9,6 @@
         "psr-4": {
             "RazzTek\\": "src"
         },
-        "files": [ "../config.php"]
     },
     "license": "MIT",
     "authors": [
